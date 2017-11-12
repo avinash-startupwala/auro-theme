@@ -23,7 +23,7 @@
 <section class="tophead" role="tophead">
   <!-- Navigation Section -->
   <header id="header">
-	  <div class="header-content clearfix"> <a class="logo" href="#">Livsugar</a>
+	  <div class="header-content clearfix"> <a class="logo" href="https://livesugar2.herokuapp.com/">Livsugar</a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
           <li><a href="#header-slider">Home</a></li>
